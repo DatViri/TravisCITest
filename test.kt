@@ -1,4 +1,4 @@
 fun main(args: Array<String>) {
-    print("Hello World!")
-    //testing okay
+    prin("Hello World!")
+    //testing fail
 }
